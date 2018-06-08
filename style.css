@@ -3513,7 +3513,7 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 	overflow: hidden;
 }
 
-#page-title.page-title-video .container { z-index: 3; }
+#page-title.page-title-video .container { z-index: 6; }
 
 #page-title.page-title-video .video-wrap {
 	position: absolute;
